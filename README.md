@@ -37,4 +37,6 @@ $ git lfs track "*.<file-type>"
 
 We use ResNet50 pretrained model (pretrained on Image Net) to pretrain on 200,000 random images from 500,000 human face images of IMDB-wiki dataset for 2 epochs using an actual human face dataset (the resource is too limited to train on the whole dataset for longer epochs).
 
+![alt text](https://github.com/hunggiadao/human_age_detection/blob/main/Presentation/data_collection.png)
+
 # Files
